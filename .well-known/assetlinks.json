@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.kakogames.app",
+        "sha256_cert_fingerprints": ["BF:86:89:A3:B5:AA:0E:EF:09:AF:BE:94:AC:4E:C9:41:6D:B7:33:95:05:62:FB:D9:D0:94:C6:CB:E9:49:84:6E"]
+      }
+    }]
